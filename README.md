@@ -11,7 +11,7 @@ Para executar o projeto, simplesmente precisei criar uma conta no Azure, criar u
 ![adele-hello](https://github.com/jkss13/Azure-AI-Language-Studio-Introduction-Test/assets/89669182/78dc2711-6681-4309-86ed-51a350f04564)
 
 #### Resultado da Análise de sentimentos utilizando o poema "E agora José?", de Carlos Drummond de Andrade:
-![letter-victor-hugo](https://github.com/jkss13/Azure-AI-Language-Studio-Introduction-Test/assets/89669182/ed7a3bab-9ffe-4c4e-bdd9-0c4e2373d06c)
+![poema-e-agora-jose](https://github.com/jkss13/Azure-AI-Language-Studio-Introduction-Test/assets/89669182/f6ea465c-c926-434a-a54f-4cf37772a6e0)
 
 ### Referências
 [Explore Speech Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html)
